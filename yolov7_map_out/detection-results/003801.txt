@@ -1,0 +1,10 @@
+pottedplant 0.0030 455 66 500 215
+pottedplant 0.0020 0 7 112 252
+pottedplant 0.0016 0 169 73 256
+pottedplant 0.0010 474 311 500 332
+pottedplant 0.0010 275 14 326 253
+pottedplant 0.0010 94 20 478 242
+diningtable 0.0067 200 213 494 327
+diningtable 0.0053 0 239 490 323
+tvmonitor 0.9514 93 44 292 220
+tvmonitor 0.0075 318 27 455 269

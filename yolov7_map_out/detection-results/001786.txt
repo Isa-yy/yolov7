@@ -1,0 +1,14 @@
+bottle 0.5136 225 0 370 136
+chair 0.0016 360 0 439 149
+chair 0.0012 441 223 499 369
+pottedplant 0.0751 -1 129 446 368
+pottedplant 0.0072 232 126 360 214
+pottedplant 0.0041 176 130 386 330
+pottedplant 0.0027 137 11 464 356
+pottedplant 0.0012 229 74 408 287
+diningtable 0.0835 1 0 474 373
+diningtable 0.0054 0 0 496 152
+diningtable 0.0023 0 2 131 115
+diningtable 0.0018 0 0 226 131
+diningtable 0.0015 2 0 494 68
+tvmonitor 0.0013 413 12 499 374

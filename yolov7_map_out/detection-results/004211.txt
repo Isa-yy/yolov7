@@ -1,0 +1,14 @@
+person 0.0013 136 34 363 174
+pottedplant 0.8274 77 387 212 494
+pottedplant 0.0619 16 391 89 455
+pottedplant 0.0158 56 471 98 500
+pottedplant 0.0154 19 392 85 427
+pottedplant 0.0106 16 463 127 499
+pottedplant 0.0024 16 462 36 499
+pottedplant 0.0020 17 461 73 499
+pottedplant 0.0018 60 469 137 499
+pottedplant 0.0016 140 288 262 409
+pottedplant 0.0015 96 484 134 500
+pottedplant 0.0013 0 391 89 498
+pottedplant 0.0013 9 393 31 420
+tvmonitor 0.0021 139 286 261 409

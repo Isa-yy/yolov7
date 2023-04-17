@@ -1,0 +1,14 @@
+bird 0.0028 358 78 378 89
+pottedplant 0.9200 349 3 499 230
+pottedplant 0.9089 133 0 345 220
+pottedplant 0.6579 308 1 399 158
+pottedplant 0.0346 455 0 500 69
+pottedplant 0.0303 194 153 283 266
+pottedplant 0.0181 486 24 499 69
+pottedplant 0.0101 331 77 390 158
+pottedplant 0.0092 480 0 500 67
+pottedplant 0.0021 479 0 500 20
+pottedplant 0.0017 458 0 500 22
+pottedplant 0.0015 484 27 499 111
+pottedplant 0.0011 491 50 499 69
+tvmonitor 0.0010 0 121 52 305

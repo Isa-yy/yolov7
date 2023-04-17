@@ -1,0 +1,9 @@
+bottle 0.9209 177 7 292 481
+bottle 0.0014 185 -3 279 298
+chair 0.0022 1 1 65 314
+diningtable 0.5269 3 304 324 498
+diningtable 0.0626 5 1 298 496
+diningtable 0.0056 2 416 326 499
+diningtable 0.0024 1 309 163 499
+diningtable 0.0015 159 301 327 481
+diningtable 0.0012 256 286 326 505

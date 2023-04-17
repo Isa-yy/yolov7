@@ -1,0 +1,6 @@
+bird 0.0029 341 403 374 456
+bottle 0.8664 1 -1 213 359
+diningtable 0.0790 -3 1 373 497
+diningtable 0.0067 193 3 373 219
+diningtable 0.0023 1 171 189 500
+diningtable 0.0019 190 0 372 495

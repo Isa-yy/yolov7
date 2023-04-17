@@ -1,0 +1,8 @@
+person 0.0028 74 100 118 185
+cat 0.9653 180 46 492 336
+diningtable 0.0169 9 42 212 333
+diningtable 0.0062 -7 37 504 335
+diningtable 0.0047 16 30 498 135
+diningtable 0.0034 15 47 202 104
+diningtable 0.0025 34 33 470 87
+diningtable 0.0018 4 280 498 342

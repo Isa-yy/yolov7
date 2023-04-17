@@ -1,0 +1,13 @@
+bird 0.6516 360 124 412 193
+pottedplant 0.8674 161 13 499 337
+pottedplant 0.0254 43 9 235 343
+pottedplant 0.0151 273 124 458 339
+pottedplant 0.0043 471 69 500 317
+pottedplant 0.0036 168 15 348 227
+pottedplant 0.0034 0 43 36 198
+pottedplant 0.0033 0 2 232 192
+pottedplant 0.0031 60 13 458 228
+pottedplant 0.0016 0 4 61 199
+pottedplant 0.0015 0 106 46 201
+pottedplant 0.0015 275 121 442 192
+diningtable 0.1005 1 236 498 367

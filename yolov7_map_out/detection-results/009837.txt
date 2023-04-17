@@ -1,0 +1,6 @@
+diningtable 0.0120 -2 0 501 372
+diningtable 0.0039 261 165 499 369
+diningtable 0.0029 231 0 496 289
+tvmonitor 0.8547 376 0 500 63
+tvmonitor 0.0507 247 0 375 117
+tvmonitor 0.0036 488 0 499 39

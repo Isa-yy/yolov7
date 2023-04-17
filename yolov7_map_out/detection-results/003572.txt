@@ -1,0 +1,12 @@
+chair 0.0010 0 125 30 204
+pottedplant 0.9074 144 180 299 378
+pottedplant 0.6695 1 36 228 253
+pottedplant 0.0031 1 0 157 92
+pottedplant 0.0016 154 0 299 131
+diningtable 0.0375 0 182 299 397
+diningtable 0.0037 0 198 47 397
+diningtable 0.0036 2 301 291 399
+diningtable 0.0034 -4 21 303 373
+diningtable 0.0017 0 0 156 93
+diningtable 0.0014 7 207 145 386
+diningtable 0.0012 1 185 301 280
